@@ -46,7 +46,7 @@ Telegram：{https://t.me/LXDAO/21734}
 
 ## 学习资料/课程安排
 
-{这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
+{}
 [quote="stella5606, post:1, topic:2642"]
 21 天学习进度安排如下：
 
@@ -121,8 +121,8 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 
 ## 共学激励
 
-100LXPU，由完成残酷共学着平分
-打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
+100LXPU，由完成本次残酷共学的小伙伴平分；
+共居福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## 报名和打卡规则
 
