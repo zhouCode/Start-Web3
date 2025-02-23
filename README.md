@@ -1,46 +1,46 @@
-# 残酷共学模版
+# 残酷共学
 
 > 本文档为创建残酷共学的通用模版 - 中文版，请根据模版结构来进行你的残酷共学的内容填充，请将 {} 内容进行替换
 
-# {残酷共学名称} <img alt="logo" height="80px" width="80px" src="{残酷共学 logo 图片 URL，没有可以删掉}" />
+# {Web3入门残酷共学残酷共学名称} 
 
 ## 介绍
 
-{残酷共学的介绍}
+{Web3是互联网的下一代形态，它通过去中心化技术重新定义了信任机制和价值传递。本共学计划通过21天的精心设计，帮助学员从零基础开始，逐步掌握Web3的核心内容}
 
 ## 关键词
 
-{残酷共学的关键词 tag，能够让参与者比较快速的搜索和定位到你的这个残酷共学，比如 DeFi，DAO，English 等，请用英文，并用英文的逗号（,）分隔}
+{Non-technical background,beginner-friendly,Web3,区块链}
 
 ## 面向人群
 
-{残酷共学主要的受众人群，比如是专门针对程序员的，那么没有这方面技能和经验的人就可以不参加}
+{背景不限，重点在于你是否对 web3 感兴趣}
 
 ## 报名时间
 
-- 开始时间：{报名开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
-- 结束时间：{报名结束时间，格式：yyyy-mm-dd，例子：2025-11-01}
+- 开始时间：{2025-02-24}
+- 结束时间：{2025-03-02}
 
 ## 共学时间
 
-- 开始时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
-- 结束时间：{共学正式开始时间，格式：yyyy-mm-dd，例子：2025-11-01}
+- 开始时间：{2025-03-03}
+- 结束时间：{2025-03-23}
 
 ## 发起人
 
-- 姓名：{残酷共学发起人名字}
-- GitHub ID：{残酷共学发起人 GitHub ID}
-- Telegram：{残酷共学发起人 Telegram ID}
-- Email：{残酷共学发起人 email}
+- 姓名：{古忆}
+- GitHub ID：{StellaWang5209}
+- Telegram：{stella707827}
+- Email：{luna164400@gmail.com}
 
 ## 发起组织
 
-- {残酷共学发起组织方，可以是多个，请按以下格式将组织名称、link 和 logo 填好}
+- {LXDAO}
   [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
 ## 请假规则
 
-每周请假 {请假次数，数字} 次
+每周请假 {2} 次
 
 ## 社群
 
@@ -49,12 +49,84 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 ## 学习资料/课程安排
 
 {这部分内容是直接用 markdown 格式来编写，默认学习资料是一定要提供的，如果有导师线上上课，需要提供课程安排以及导师信息}
+[quote="stella5606, post:1, topic:2642"]
+21 天学习进度安排如下：
+
+**第一周：Web3基础概念（摧毁Web2思维钢印）**
+
+Web3是什么 [web3-general-manual/chapter1/1.1-what_is_web3.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter1/1.1-what_is_web3.md)
+
+Web2与Web3对比 [web3-general-manual/chapter1/1.3-difference_between_web3_and_web2.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter1/1.3-difference_between_web3_and_web2.md)
+
+数字资产简介 [web3-general-manual/chapter3/3.1-digital_assets.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter3/3.1-digital_assets.md)
+
+多样化的数字资产 [web3-general-manual/chapter3/3.5-others.md at main · lxdao-official/web3-general-manual · GitHub](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter3/3.5-others.md)
+
+私钥与助记词 [https://www.odaily.news/post/5140472 ](https://www.odaily.news/post/5140472)
+
+钱包简介 [web3-general-manual/chapter3/3.4-wallet.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter3/3.4-wallet.md)
+
+扩展：
+
+[https://medium.com/@RongHui_Academy/小白进阶之路-web3行业术语大全-ea29163ef175 ](https://medium.com/@RongHui_Academy/%E5%B0%8F%E7%99%BD%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF-web3%E8%A1%8C%E4%B8%9A%E6%9C%AF%E8%AF%AD%E5%A4%A7%E5%85%A8-ea29163ef175)
+
+https://wallstreetcn.com/articles/3649370
+
+**第二周：技术祛魅（区块链不是魔法）**
+
+区块链技术简介 [web3-general-manual/chapter2/2.2-blockchain.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter2/2.2-blockchain.md)
+
+Layer 1 简介 [web3-general-manual/chapter2/2.3-layer1.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter2/2.3-layer1.md)
+
+Layer 2 和跨链简介 [web3-general-manual/chapter2/2.4-layer2_and_cross-chain_bridge.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter2/2.4-layer2_and_cross-chain_bridge.md)
+
+比特币简介 [web3-general-manual/chapter3/3.2-bitcoin.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter3/3.2-bitcoin.md)
+
+以太坊简介 [web3-general-manual/chapter3/3.3-ethereum.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter3/3.3-ethereum.md)
+
+**扩展：**
+
+密码学技术 [web3-general-manual/chapter2/2.1-application_of_cryptography_in_blockchain.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/chapter2/2.1-application_of_cryptography_in_blockchain.md)
+
+比特币白皮书 [https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf ](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
+
+以太坊白皮书 [White Paper · ethereum/wiki Wiki · GitHub ](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+Layer2 [https://layer2.myfirst.io/ ](https://layer2.myfirst.io/)
+
+**第三周：Web3生态与安全（带着镣铐跳舞）**
+
+DAO简介 [web3-general-manual/web3_ecosystem/DAO.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/web3_ecosystem/DAO.md)
+
+NFT简介 [https://myfirstnft.info/ ](https://myfirstnft.info/)
+
+DeFi简介 [https://www.bitpush.news/articles/941245 ](https://www.bitpush.news/articles/941245)
+
+Web3生态简介 [web3-general-manual/web3_ecosystem/web3_landscape.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/web3_ecosystem/web3_landscape.md)
+
+黑暗森林手册，进入 web3 必读 区块链安全问题 [https://www.youtube.com/playlist?list=PLixFNij3zCfIdhoZSFA128hhO5h1pAKf9 ](https://www.youtube.com/playlist?list=PLixFNij3zCfIdhoZSFA128hhO5h1pAKf9)
+
+扩展：
+
+GameFi 简介 [web3-general-manual/web3_ecosystem/GameFi.md at main · lxdao-official/web3-general-manual · GitHub ](https://github.com/lxdao-official/web3-general-manual/blob/main/web3_ecosystem/GameFi.md)
+
+DeSci 简介 [https://docs.simonliu.life/research/desci ](https://docs.simonliu.life/research/desci)
+
+memecoin简介 [https://www.coinbase.com/zh-cn/learn/crypto-basics/what-is-a-memecoin ](https://www.coinbase.com/zh-cn/learn/crypto-basics/what-is-a-memecoin)
+
+铭文简介 [新人科普丨Ordinals铭文最全指南：看完这篇，认知将超过99%的人 - PANews ](https://www.panewslab.com/zh/articledetails/1301r1ibp79c.html)
+
+How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b)
+[/quote]
+
+
 
 ## 共学激励
 
 {这部分内容是直接用 markdown 格式来编写，激励不是必须的，如果没有激励设置，也可以不写，或者写几句激励的话都可以}
 {以下是残酷共学目前已有的福利，建议保留}
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
+100LXPU，由完成残酷共学着平分
 
 ## 更多信息
 
