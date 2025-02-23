@@ -42,7 +42,7 @@
 
 ## 社群
 
-Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内容}
+Telegram：{https://t.me/LXDAO/21734}
 
 ## 学习资料/课程安排
 
