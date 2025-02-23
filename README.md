@@ -46,8 +46,6 @@ Telegram：{https://t.me/LXDAO/21734}
 
 ## 学习资料/课程安排
 
-{}
-[quote="stella5606, post:1, topic:2642"]
 21 天学习进度安排如下：
 
 **第一周：Web3基础概念（摧毁Web2思维钢印）**
