@@ -1,48 +1,46 @@
-# 残酷共学
-
-# {Web3入门残酷共学} 
+# Web3 入门残酷共学
 
 ## 介绍
 
-{Web3是互联网的下一代形态，它通过去中心化技术重新定义了信任机制和价值传递。本共学计划通过21天的精心设计，帮助学员从零基础开始，逐步掌握Web3的核心内容}
+Web3 是互联网的下一代形态，它通过去中心化技术重新定义了信任机制和价值传递。本共学计划通过 21 天的精心设计，帮助学员从零基础开始，逐步掌握 Web3 的核心内容
 
 ## 关键词
 
-{Non-technical background,beginner-friendly,Web3,区块链}
+Non-technical background,beginner-friendly,Web3,Blockchain
 
 ## 面向人群
 
-{背景不限，重点在于你是否对 web3 感兴趣}
+背景不限，重点在于你是否对 Web3 感兴趣
 
 ## 报名时间
 
-- 开始时间：{2025-02-24}
-- 结束时间：{2025-03-02}
+- 开始时间：2025-02-24
+- 结束时间：2025-03-02
 
 ## 共学时间
 
-- 开始时间：{2025-03-03}
-- 结束时间：{2025-03-23}
+- 开始时间：2025-03-03
+- 结束时间：2025-03-23
 
 ## 发起人
 
-- 姓名：{古忆}
-- GitHub ID：{StellaWang5209}
-- Telegram：{stella707827}
-- Email：{luna164400@gmail.com}
+- 姓名：古忆
+- GitHub ID：StellaWang5209
+- Telegram：stella707827
+- Email：luna164400@gmail.com
 
 ## 发起组织
 
-- {LXDAO}
+- LXDAO
   [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
 ## 请假规则
 
-每周请假 {2} 次
+每周请假 2 次
 
 ## 社群
 
-Telegram：{https://t.me/LXDAO/21734}
+Telegram：https://t.me/LXDAO/21734
 
 ## 学习资料/课程安排
 
