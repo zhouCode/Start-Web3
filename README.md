@@ -153,7 +153,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [ztm0929](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ztm0929.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [zhsama](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/zhsama.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [klora-sun](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/klora-sun.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
