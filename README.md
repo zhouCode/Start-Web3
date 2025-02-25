@@ -159,7 +159,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [JacksonStack](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/JacksonStack.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Lunbn](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Lunbn.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [jjeejj](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/jjeejj.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [euphoria-august](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/euphoria-august.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
