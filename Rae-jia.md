@@ -8,11 +8,11 @@ timezone: UTC+8
 # Rae
 
 1. 自我介绍
-   大家好！我是Rae, 目前前端在职，Web3小白，但是很想学习！
+   - 大家好！我是Rae, 目前前端在职，Web3小白，但是很想学习！
 3. 你认为你会完成本次残酷学习吗？
-   会！
+   - 会！
 5. 你的联系方式（推荐 Telegram）
-   https://t.me/rae_jia
+   - https://t.me/rae_jia
 
 ## Notes
 
