@@ -162,7 +162,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [euphoria-august](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/euphoria-august.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [yyhatb](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/yyhatb.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [hyanworkspace](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hyanworkspace.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [Cynthia4EVA](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Cynthia4EVA.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
